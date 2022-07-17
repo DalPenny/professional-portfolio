@@ -303,6 +303,15 @@ footer ul li a:hover {
         flex-direction: column;
     }
 
+    .hero img {
+        height: 250px;
+    }
+
+    .hero .quote #quote-text {
+        font-size: 24px;
+        justify-content: left;
+    }
+
     .about-me {
         flex-direction: column;
     }
@@ -334,7 +343,7 @@ footer ul li a:hover {
     }
     
     .projects-grid {
-        width: 50%;
+        width: 80%;
     }
 
     footer {
