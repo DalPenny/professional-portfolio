@@ -329,12 +329,12 @@ footer ul li a:hover {
     }
 
     .projects-grid-wrapper {
-        width: 80%;
+        width: 100%;
         padding: 10px;
     }
     
     .projects-grid {
-        width: 65%;
+        width: 50%;
     }
 
     footer {
