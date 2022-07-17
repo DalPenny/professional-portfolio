@@ -308,7 +308,7 @@ footer ul li a:hover {
     }
 
     .hero .quote #quote-text {
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .about-me {
@@ -342,7 +342,7 @@ footer ul li a:hover {
     }
     
     .projects-grid {
-        width: 80%;
+        width: 50%;
     }
 
     footer {
