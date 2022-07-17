@@ -300,7 +300,7 @@ footer ul li a:hover {
     }
 
     .hero img {
-        height: 100px;
+        height: 200px;
     }
 
     .hero {
@@ -308,7 +308,7 @@ footer ul li a:hover {
     }
 
     .hero .quote #quote-text {
-        font-size: 16px;
+        font-size: 24px;
     }
 
     .about-me {
@@ -316,7 +316,7 @@ footer ul li a:hover {
     }
 
     .title {
-        border-bottom: 5px solid var(--pop);
+        border-bottom: 5px solid underline var(--pop);
         border-right: none;
         text-align: center;
         min-width: 100%;
@@ -342,7 +342,7 @@ footer ul li a:hover {
     }
     
     .projects-grid {
-        width: 80%;
+        width: 65%;
     }
 
     footer {
