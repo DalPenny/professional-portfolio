@@ -299,16 +299,8 @@ footer ul li a:hover {
         min-height: 80px;
     }
 
-    .hero img {
-        height: 200px;
-    }
-
     .hero {
         flex-direction: column;
-    }
-
-    .hero .quote #quote-text {
-        font-size: 24px;
     }
 
     .about-me {
@@ -316,7 +308,7 @@ footer ul li a:hover {
     }
 
     .title {
-        border-bottom: 5px solid underline var(--pop);
+        border-bottom: 5px none;
         border-right: none;
         text-align: center;
         min-width: 100%;
