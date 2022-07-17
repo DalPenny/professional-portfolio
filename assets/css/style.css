@@ -279,7 +279,7 @@ footer ul li a:hover {
     }
 
     .title h2 {
-        font-size: 35px;
+        font-size: 30px;
     }
 
     .about-me p {
@@ -289,7 +289,7 @@ footer ul li a:hover {
 }
 
 /* MEDIA QUERY: MOBILE PHONE SCREENS AND SMALLER */
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 480px) {
     header {
         justify-content: center;
         padding: 20px;
@@ -299,8 +299,16 @@ footer ul li a:hover {
         min-height: 80px;
     }
 
+    .hero img {
+        height: 100px;
+    }
+
     .hero {
         flex-direction: column;
+    }
+
+    .hero .quote #quote-text {
+        font-size: 16px;
     }
 
     .about-me {
