@@ -289,7 +289,7 @@ footer ul li a:hover {
 }
 
 /* MEDIA QUERY: MOBILE PHONE SCREENS AND SMALLER */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 400px) {
     header {
         justify-content: center;
         padding: 20px;
