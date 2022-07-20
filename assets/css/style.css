@@ -154,7 +154,7 @@ header nav ul li a:hover {
     color: var(--secondary);
 }
 
-.projects-grid-wrapper {
+.projects-grid-wrapper { 
     width: 80%;
     height: 500px;
     display: flex;
@@ -185,7 +185,7 @@ header nav ul li a:hover {
     opacity: 1.0;
 }
 
-.prj1 {
+.prj1 { 
     grid-column: 1/3;
     grid-row: span 2;
     background-image: url("../images/placeholder.jpg");
@@ -289,7 +289,7 @@ footer ul li a:hover {
 }
 
 /* MEDIA QUERY: MOBILE PHONE SCREENS AND SMALLER */
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 480px) {
     header {
         justify-content: center;
         padding: 20px;
@@ -337,12 +337,12 @@ footer ul li a:hover {
     }
 
     .projects-grid-wrapper {
-        width: 50%;
+        width: 100%;
         padding: 10px;
     }
     
     .projects-grid {
-        width: 50%;
+        width: 80%;
     }
 
     footer {
