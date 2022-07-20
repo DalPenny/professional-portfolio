@@ -44,6 +44,3 @@ When Code refactor project or Portfolio project is clicked on, it will take the 
 The page was styled so that it could fit in multiple device size (phone, tablet, laptop/desktop) 
 
 Included hover effects over the links so that you can tell its a link and can be clicked on
-
-trying to clean On branch master
-nothing to commit, working tree clean error
