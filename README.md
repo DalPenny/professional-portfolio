@@ -44,3 +44,13 @@ When Code refactor project or Portfolio project is clicked on, it will take the 
 The page was styled so that it could fit in multiple device size (phone, tablet, laptop/desktop) 
 
 Included hover effects over the links so that you can tell its a link and can be clicked on
+
+## Link to application: 
+    https://dalpenny.github.io/professional-portfolio/
+   
+## Link to github: 
+   https://github.com/DalPenny/professional-portfolio/
+   
+## Links to screenshots of deployed application
+￼￼
+    https://github.com/DalPenny/portfolio/blob/main/portfolio1.png
